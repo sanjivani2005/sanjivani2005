@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanjivani2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Sanjivani's GitHub Stats" />
 </p>
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sanjivani2005&theme=radical&hide_border=false)](https://github.com/sanjivani2005)
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sanjivani2005&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
