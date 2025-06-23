@@ -84,7 +84,7 @@
 
 <p align="center" >
   <b><i>
-    <font color="#00f2ff">
+    <font color="#00f2ff";font-size:1.5em;>
       “The future belongs to those who believe in the beauty of their dreams.”
     </font>
   </i></b>
@@ -92,14 +92,9 @@
 
 <p align="center">
   <b><i>
-    <font color="#ff4081">–🌸 Eleanor Roosevelt 🌸</font>
+    <font color="#ff4081; font-weight:bold; font-size:1.2em;">–🌸 Eleanor Roosevelt 🌸</font>
   </i></b>
 </p>
-
-<p align="right">
-  <img src="https://img.icons8.com/fluency/48/quote-right.png" height="20"/>
-</p>
-
 
 <p align="right">
   <img src="https://img.icons8.com/fluency/48/quote-right.png" height="20"/>
