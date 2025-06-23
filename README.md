@@ -82,12 +82,14 @@
   <img src="https://img.icons8.com/fluency/48/quote-left.png" height="20"/>
 </p>
 
-<div align="center">
-  <h3 style="border: 2px solid #00f2ff; padding: 15px; border-radius: 10px; color: #00f2ff;">
-    “The future belongs to those who believe in the beauty of their dreams.”
-  </h3>
-  <p style="color: #ff4081; font-weight: bold;">–🌸 Eleanor Roosevelt 🌸</p>
-</div>
+     🎇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🎇
+
+### 💫 *“The future belongs to those who believe in the beauty of their dreams.”*
+
+#### 🌸 – Eleanor Roosevelt 🌸
+
+     🎇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🎇
+
 
 <p align="right">
   <img src="https://img.icons8.com/fluency/48/quote-right.png" height="20"/>
