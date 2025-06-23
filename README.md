@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me 💫</h1>
+<h1>💫 About Me 💫</h1>
 
 🔭 I’m currently working on something cool — **Sentiment Analysis** and a **Personal Finance Tracker**  
 🌱 I’m currently learning **Deep Learning**, **React.js**, and **DSA in C++**  
@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">🌐 Socials 🌐</h2>
+<h2>🌐 Socials 🌐</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjivanishende9/" target="_blank">
@@ -18,9 +18,9 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack 💻</h2>
+<h2 >💻 Tech Stack 💻</h2>
 
-<p align="center">
+<p >
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
@@ -54,36 +54,36 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 >📊 GitHub Stats 📊</h2>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=sanjivani2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Sanjivani's GitHub Stats" />
 </p>
-<p align="center">
+<p >
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sanjivani2005&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjivani2005&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 >🏆 GitHub Trophies 🏆</h2>
 
-<p align="center">
+<p >
   <img src="https://github-profile-trophy.vercel.app/?username=sanjivani2005&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
- <h2 align="center">✨✍️ <u>Random Dev Quote</u> ✍️✨</h2>
+ <h2 >✨✍️ <u>Random Dev Quote</u> ✍️✨</h2>
 
-<p align="center">
+<p >
   <img src="https://img.icons8.com/fluency/48/quote-left.png" height="20"/>
 </p>
 
-<p align="center">
+<p >
   <b><i>
     <font color="#00f2ff">
       “The future belongs to those who believe in the beauty of their dreams.”
