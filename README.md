@@ -10,7 +10,7 @@
 
 <h2>🌐 Socials 🌐</h2>
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/sanjivanishende9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
@@ -20,7 +20,7 @@
 
 <h2 >💻 Tech Stack 💻</h2>
 
-<p >
+<p align="center" >
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
