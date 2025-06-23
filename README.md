@@ -13,9 +13,9 @@
 C | C++ | Python | HTML | CSS | JavaScript | MySQL | Power BI | Alteryx | Pandas | NumPy | Matplotlib | Seaborn | scikit-learn | Git | GitHub |  React.js  
 
 📊 GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=sanj8484&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanj8484&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanj8484&theme=radical&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=sanjivani2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanjivani2005&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjivani2005&theme=radical&hide_border=false&layout=compact)  
 
 🏆 GitHub Trophies:  
 ![](https://github-profile-trophy.vercel.app/?username=sanjivani2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)  
