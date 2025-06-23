@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me</h1>
+<h1 align="center">💫 About Me 💫</h1>
 
 🔭 I’m currently working on something cool — **Sentiment Analysis** and a **Personal Finance Tracker**  
 🌱 I’m currently learning **Deep Learning**, **React.js**, and **DSA in C++**  
@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🌐 Socials 🌐</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjivanishende9/" target="_blank">
@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack 💻</h2>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
@@ -29,20 +29,32 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/ios-filled/48/4a90e2/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-alteryx-a-data-analytics-company-that-provides-a-platform-logo-color-tal-revivo.png" alt="Alteryx"/>
-  <img src="https://img.icons8.com/ios/48/26e07f/pandas.png" alt="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-matplotlib-a-python-library-for-creating-static-vector-graphics-soft-fill-soft-fill-juicy-fish.png" alt="Matplotlib"/>
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Alteryx_logo_2022.svg" alt="Alteryx" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjivani2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Sanjivani's GitHub Stats" />
@@ -56,7 +68,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanjivani2005&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -64,8 +76,9 @@
 
 ---
 
-<h2 align="center">✍️ Random Dev Quote</h2>
+<h2 align="center">✍️ Random Dev Quote ✍️</h2>
 
 <p align="center">
-  <em>"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill</em>
+  <em>"The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt</em>
 </p>
+
