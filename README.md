@@ -77,16 +77,32 @@
 
 ---
 
-  <h2 align="center">✍️ <u>Random Dev Quote</u> ✍️</h2>
+ <h2 align="center">✨✍️ <u>Random Dev Quote</u> ✍️✨</h2>
 
 <p align="center">
-  
-  <img src="https://img.icons8.com/fluency/48/quote-left.png" height="18"/>
-  <i><b><font color="#00f2ff">The future belongs to those who believe in the beauty of their dreams.</font></b></i><br>
-  <br>
-  <i><b><font color="#ff4081">– Eleanor Roosevelt</font></b></i>
-  
+  <img src="https://img.icons8.com/fluency/48/quote-left.png" height="20"/>
 </p>
+
+<p align="center">
+  <b><i>
+    <font color="#00f2ff">
+      “The future belongs to those who believe in the beauty of their dreams.”
+    </font>
+  </i></b>
+</p>
+
+<p align="center">
+  <b><i>
+    <font color="#ff4081">– Eleanor Roosevelt 🌸</font>
+  </i></b>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/quote-right.png" height="20"/>
+</p>
+
+<hr style="border: 1px dashed #ff79c6; width: 50%;" />
+
 
 
 
