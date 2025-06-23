@@ -7,7 +7,7 @@
 📫 Reach me at: **sanjivanishende9@gmail.com**  
 😄 Pronouns: **She/Her**
 
----
+
 
 <h2 align="center">🌐 Connect with Me 🌐</h2>
 
