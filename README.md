@@ -18,7 +18,7 @@ C | C++ | Python | HTML | CSS | JavaScript | MySQL | Power BI | Alteryx | Pandas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanj8484&theme=radical&hide_border=false&layout=compact)  
 
 🏆 GitHub Trophies:  
-![](https://github-profile-trophy.vercel.app/?username=sanj8484&theme=radical&no-frame=true&no-bg=false&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=sanjivani2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)  
 
 ✍️ Random Dev Quote:  
 *"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill*
