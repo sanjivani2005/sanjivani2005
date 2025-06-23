@@ -78,6 +78,10 @@
 
  <h2 >✨✍️ <u>Random Dev Quote</u> ✍️✨</h2>
 
+<p  >
+  <img src="https://img.icons8.com/fluency/48/quote-left.png" height="20"/>
+</p>
+
 <p align="center" >
   <b><i>
     <font color="#00f2ff">
@@ -90,6 +94,10 @@
   <b><i>
     <font color="#ff4081">–🌸 Eleanor Roosevelt 🌸</font>
   </i></b>
+</p>
+
+<p align="right">
+  <img src="https://img.icons8.com/fluency/48/quote-right.png" height="20"/>
 </p>
 
 
