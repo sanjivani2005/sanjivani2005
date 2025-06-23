@@ -29,7 +29,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/ios-filled/48/4a90e2/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Alteryx_logo_2022.svg" alt="Alteryx" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Alteryx_logo.svg" alt="Alteryx" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40"/>
@@ -60,8 +60,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanjivani2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Sanjivani's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivani2005&theme=radical&hide_border=false" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sanjivani2005&theme=radical&hide_border=false)](https://github.com/sanjivani2005)
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjivani2005&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
@@ -79,6 +80,9 @@
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
 
 <p align="center">
-  <em>"The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt</em>
+  <div style="border-radius: 10px; border: 2px solid #ff79c6; padding: 15px; margin: 20px; background-color: #2d2d2d; color: #f8f8f2; font-style: italic; max-width: 600px; margin-left: auto; margin-right: auto;">
+    "The future belongs to those who believe in the beauty of their dreams." <br>– Eleanor Roosevelt
+  </div>
 </p>
+
 
