@@ -77,13 +77,6 @@
 
 ---
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Dev Quote</title>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
     body {
       background-color: #0f0f0f;
@@ -133,7 +126,6 @@
   </div>
 
 </body>
-</html>
 
 
 
