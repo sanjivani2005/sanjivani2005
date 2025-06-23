@@ -81,12 +81,13 @@
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
 
 <p align="center">
-  
-  <pre>
-  “The future belongs to those who believe in the beauty of their dreams.”
-  — Eleanor Roosevelt
-  </pre>
+
+🌸━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌸  
+🎀 **_“The future belongs to those who believe in the beauty of their dreams.”_**  
+                    — *Eleanor Roosevelt*  
+🌸━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌸
 
 </p>
+
 
 
