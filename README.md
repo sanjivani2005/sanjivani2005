@@ -79,7 +79,7 @@
 
  <h2 >✨✍️ <u>Random Dev Quote</u> ✍️✨</h2>
 
-<p align="center" >
+<p  >
   <img src="https://img.icons8.com/fluency/48/quote-left.png" height="20"/>
 </p>
 
@@ -97,7 +97,7 @@
   </i></b>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://img.icons8.com/fluency/48/quote-right.png" height="20"/>
 </p>
 
