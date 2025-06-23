@@ -78,16 +78,62 @@
 ---
 
 
-<h2 align="center">✍️ Random Dev Quote ✍️</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dev Quote</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #0f0f0f;
+      font-family: 'Poppins', sans-serif;
+      color: white;
+      display: flex;
+      justify-content: center;
+      padding: 50px;
+    }
+    .quote-box {
+      background-color: #1a1a2e;
+      border-radius: 12px;
+      padding: 30px;
+      max-width: 600px;
+      box-shadow: 0 4px 15px rgba(255, 105, 135, 0.2);
+    }
+    .quote-text {
+      font-size: 1.2rem;
+      color: #00f2ff;
+      font-style: italic;
+      margin-bottom: 20px;
+    }
+    .quote-author {
+      text-align: right;
+      font-size: 1rem;
+      color: #ff4081;
+      font-style: italic;
+    }
+    .title {
+      font-weight: 600;
+      font-size: 1.4rem;
+      margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+  </style>
+</head>
+<body>
 
-<p align="center">
+  <div class="quote-box">
+    <div class="title">✍️ Random Dev Quote</div>
+    <div class="quote-text">
+      “The most important thing is to be able to think what you want, not to say what you want.”
+    </div>
+    <div class="quote-author">– Paul Graham (programmer)</div>
+  </div>
 
-🌸━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌸  
-🎀 **_“The future belongs to those who believe in the beauty of their dreams.”_**  
-                    — *Eleanor Roosevelt*  
-🌸━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌸
-
-</p>
+</body>
+</html>
 
 
 
