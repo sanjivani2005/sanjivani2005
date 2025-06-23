@@ -8,9 +8,9 @@
 
 ---
 
-<h2>🌐 Socials 🌐</h2>
+<h2 align="center">🌐 Socials 🌐</h2>
 
-<p >
+<p align="center">
   <a href="https://www.linkedin.com/in/sanjivanishende9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
