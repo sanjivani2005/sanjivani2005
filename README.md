@@ -1,7 +1,7 @@
 <h1>💫 About Me 💫</h1>
 
 🔭 I’m currently working on something cool — **Sentiment Analysis** and a **Personal Finance Tracker**  
-🌱 I’m currently learning **Deep Learning**, **React.js**, and **DSA in C++**  
+🌱 I’m currently learning **Data Anayaltics**, **React.js**, and **DSA in C++**  
 👯 I’m looking to collaborate on **Python**, **Data Analytics**, and **Machine Learning** projects  
 📫 How to reach me: **sanjivanishende9@gmail.com**  
 
@@ -68,11 +68,12 @@
 
 ---
 
-<h2 >🏆 GitHub Trophies 🏆</h2>
+<h2>🏆 GitHub Trophies 🏆</h2>
 
-<p >
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjivani2005&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjivani2005&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
